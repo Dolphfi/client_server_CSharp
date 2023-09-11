@@ -1,0 +1,222 @@
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.dll.config
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\BouncyCastle.Crypto.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Hash.xxHash.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySql.Data.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySqlConnector.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Buffers.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Memory.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Numerics.Vectors.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Ubiety.Dns.Core.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\ZstdNet.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\BouncyCastle.Crypto.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Hash.xxHash.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySql.Data.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySqlConnector.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Buffers.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Memory.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Numerics.Vectors.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.CopyComplete
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.dll.config
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySql.Data.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySqlConnector.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Buffers.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Memory.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\ZstdNet.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySql.Data.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySqlConnector.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Buffers.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Memory.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.CopyComplete
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.dll.config
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySql.Data.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySqlConnector.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Buffers.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Memory.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\ZstdNet.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySql.Data.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\MySqlConnector.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Buffers.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Memory.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.csproj.CopyComplete
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.dll.config
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySql.Data.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySqlConnector.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Buffers.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Memory.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\ZstdNet.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySql.Data.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySqlConnector.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Buffers.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Memory.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.CopyComplete
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.dll.config
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySql.Data.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySqlConnector.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Buffers.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Memory.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\ZstdNet.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySql.Data.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySqlConnector.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Buffers.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Memory.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.CopyComplete
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.dll.config
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySql.Data.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySqlConnector.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Buffers.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Memory.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\ZstdNet.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.pdb
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\Google.Protobuf.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySql.Data.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\MySqlConnector.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Buffers.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Memory.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.csproj.CopyComplete
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SVB\GestionInterface\obj\Debug\GestionInterface.pdb

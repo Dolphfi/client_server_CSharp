@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{791B7C47-B820-4E3D-BFCE-E7837313C675}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SVB</RootNamespace>
+    <AssemblyName>SVB</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.19.4\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.30\lib\net48\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.1.11\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.1\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.3.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.30\lib\net48\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.30\lib\net48\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="application\ControlCompte.cs" />
+    <Compile Include="application\ControlDashBoard.cs" />
+    <Compile Include="application\ControlDepot.cs" />
+    <Compile Include="application\ControlPayroll.cs" />
+    <Compile Include="application\ControlRetrait.cs" />
+    <Compile Include="application\ControlStatistique.cs" />
+    <Compile Include="application\ControlTransfert.cs" />
+    <Compile Include="application\Ctrlclient.cs" />
+    <Compile Include="application\Ctrlemploye.cs" />
+    <Compile Include="application\CtrlUtilisateur.cs" />
+    <Compile Include="DAL\ChaineConnexion.cs" />
+    <Compile Include="DAL\DalClient.cs" />
+    <Compile Include="DAL\DalCompte.cs" />
+    <Compile Include="DAL\DalDashboard.cs" />
+    <Compile Include="DAL\DalDepot.cs" />
+    <Compile Include="DAL\Dalemploye.cs" />
+    <Compile Include="DAL\DalPayroll.cs" />
+    <Compile Include="DAL\DalRetrait.cs" />
+    <Compile Include="DAL\DalStatistique.cs" />
+    <Compile Include="DAL\DalTransfert.cs" />
+    <Compile Include="DAL\DalUtilisateur.cs" />
+    <Compile Include="Domain\Client.cs" />
+    <Compile Include="Domain\Compte.cs" />
+    <Compile Include="Domain\Depot.cs" />
+    <Compile Include="Domain\Employe.cs" />
+    <Compile Include="Domain\Payroll.cs" />
+    <Compile Include="Domain\Retrait.cs" />
+    <Compile Include="Domain\Transfert.cs" />
+    <Compile Include="Domain\Utilisateur.cs" />
+    <Compile Include="Form\FormDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormDashBoard.Designer.cs">
+      <DependentUpon>FormDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormEmploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormEmploye.Designer.cs">
+      <DependentUpon>FormEmploye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormProgressBar.Designer.cs">
+      <DependentUpon>FormProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormTransaction.Designer.cs">
+      <DependentUpon>FormTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormStatistique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormStatistique.Designer.cs">
+      <DependentUpon>FormStatistique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormCompte.Designer.cs">
+      <DependentUpon>FormCompte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormClient.Designer.cs">
+      <DependentUpon>FormClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormUtilisateur.Designer.cs">
+      <DependentUpon>FormUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormLoginUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormLoginUser.Designer.cs">
+      <DependentUpon>FormLoginUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\FormPayroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormPayroll.Designer.cs">
+      <DependentUpon>FormPayroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceTechnique.cs" />
+    <EmbeddedResource Include="Form\FormDashBoard.resx">
+      <DependentUpon>FormDashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormEmploye.resx">
+      <DependentUpon>FormEmploye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormProgressBar.resx">
+      <DependentUpon>FormProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormTransaction.resx">
+      <DependentUpon>FormTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormStatistique.resx">
+      <DependentUpon>FormStatistique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormCompte.resx">
+      <DependentUpon>FormCompte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormClient.resx">
+      <DependentUpon>FormClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormUtilisateur.resx">
+      <DependentUpon>FormUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormLoginUser.resx">
+      <DependentUpon>FormLoginUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormPayroll.resx">
+      <DependentUpon>FormPayroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\04-1User_5-2-512.jpeg" />
+    <Content Include="Resources\04-1User_5-2-512.jpg" />
+    <Content Include="Resources\153a4535df6cf2d2b106a558b750c486.jpg" />
+    <Content Include="Resources\153a4535df6cf2d2b106a558b750c486.png" />
+    <Content Include="Resources\199-1993599_and-abstraction-triangle-geometry-pattern-cover-black-triangle.png" />
+    <Content Include="Resources\240083789_3684657904967294_8918723134441913761_n.png" />
+    <Content Include="Resources\66-666513_abstract-dark-halftone-background-design-png-image-background.png" />
+    <Content Include="Resources\866095.png" />
+    <Content Include="Resources\account.png" />
+    <Content Include="Resources\account_100px.png" />
+    <Content Include="Resources\account_48px.png" />
+    <Content Include="Resources\account_60px.png" />
+    <Content Include="Resources\add_administrator_24px.png" />
+    <Content Include="Resources\admin.png" />
+    <Content Include="Resources\analysis.png" />
+    <Content Include="Resources\as.png" />
+    <Content Include="Resources\asx.png" />
+    <Content Include="Resources\asxz.png" />
+    <Content Include="Resources\bank_account_48px.png" />
+    <Content Include="Resources\BARRE.png" />
+    <Content Include="Resources\businessman_60px.png" />
+    <Content Include="Resources\caisse.jpg" />
+    <Content Include="Resources\caisse.png" />
+    <Content Include="Resources\cheap_2_52px.png" />
+    <Content Include="Resources\check_book_100px.png" />
+    <Content Include="Resources\clients.png" />
+    <Content Include="Resources\clip-art-3d-sci-fi-blue-square.jpg" />
+    <Content Include="Resources\compte.png" />
+    <Content Include="Resources\contacts_100px.png" />
+    <Content Include="Resources\contacts_48px.png" />
+    <Content Include="Resources\coolman.png" />
+    <Content Include="Resources\cpf.ico" />
+    <Content Include="Resources\dashboard.png" />
+    <Content Include="Resources\dashboard_layout_24px.png" />
+    <Content Include="Resources\dashboard_layout_48px.png" />
+    <Content Include="Resources\dashboard_layout_96px.png" />
+    <Content Include="Resources\debt_52px.png" />
+    <Content Include="Resources\Delete_16px.png" />
+    <Content Include="Resources\Delete_30px.png" />
+    <Content Include="Resources\delete_user_male_24px.png" />
+    <Content Include="Resources\dfyvfv.png" />
+    <Content Include="Resources\download.jpg" />
+    <Content Include="Resources\download.png" />
+    <Content Include="Resources\e.png" />
+    <Content Include="Resources\edit_profile_24px.png" />
+    <Content Include="Resources\edit_user_48px.png" />
+    <Content Include="Resources\employee.png" />
+    <Content Include="Resources\eye_30px.png" />
+    <Content Include="Resources\GL-AGI-01.jpg" />
+    <Content Include="Resources\gpgsm.png" />
+    <Content Include="Resources\im.png" />
+    <Content Include="Resources\istockphoto-1208168855-170667a.jpg" />
+    <Content Include="Resources\lock_48px.png" />
+    <Content Include="Resources\loginIcon.png" />
+    <Content Include="Resources\male_user_48px.png" />
+    <Content Include="Resources\male_user_50px.png" />
+    <Content Include="Resources\management_60px.png" />
+    <Content Include="Resources\money-transfer.png" />
+    <Content Include="Resources\OK.png" />
+    <Content Include="Resources\OK2.png" />
+    <Content Include="Resources\png-transparent-bank-cashier-cashier-s-check-money-order-certified-check-cashier-text-public-relations-logo-thumbnail.jpg" />
+    <Content Include="Resources\png-transparent-bank-cashier-cashier-s-check-money-order-certified-check-cashier-text-public-relations-logo-thumbnail.png" />
+    <Content Include="Resources\png-transparent-triangle-black-and-white-pattern-blue-technology-triangle-black-graphic-texture-angle-white-thumbnail.png" />
+    <Content Include="Resources\r.png" />
+    <Content Include="Resources\registration_48px.png" />
+    <Content Include="Resources\search_30px.png" />
+    <Content Include="Resources\search_client_24px.png" />
+    <Content Include="Resources\stack_of_money_52px.png" />
+    <Content Include="Resources\statistics_48px.png" />
+    <Content Include="Resources\submit_for_approval_48px.png" />
+    <Content Include="Resources\tiktok_verified_account_96px.png" />
+    <Content Include="Resources\transaction_48px.png" />
+    <Content Include="Resources\transfert.png" />
+    <Content Include="Resources\unlock_52px.png" />
+    <Content Include="Resources\Untitled-1.png" />
+    <Content Include="Resources\Untitled-1a.png" />
+    <Content Include="Resources\Untitledz-1.png" />
+    <Content Include="Resources\user.png" />
+    <Content Include="Resources\users_60px.png" />
+    <Content Include="Resources\user_48px.png" />
+    <Content Include="Resources\user_folder_100px.png" />
+    <Content Include="Resources\user_shield_48px.png" />
+    <Content Include="Resources\verified_account_60px.png" />
+    <Content Include="Resources\verified_account_96px.png" />
+    <Content Include="Resources\viii.png" />
+    <Content Include="Resources\voltaire.jpg" />
+    <Content Include="Resources\web_account_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GestionInterface\GestionInterface.csproj">
+      <Project>{077ebae1-4373-4326-aa0e-d016a1203111}</Project>
+      <Name>GestionInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

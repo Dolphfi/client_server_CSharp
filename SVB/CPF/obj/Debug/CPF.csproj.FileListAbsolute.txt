@@ -1,0 +1,218 @@
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.AssemblyReference.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.SuggestedBindingRedirects.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.Properties.Resources.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.GenerateResource.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CoreCompileInputs.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormLoginUser.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe.config
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Ubiety.Dns.Core.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\ZstdNet.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CopyComplete
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.exe
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormMenu.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormDashBoard.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormEmploye.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormProgressBar.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormTransaction.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormStatistique.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormCompte.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormClient.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormUtilisateur.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormPayroll.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll.config
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe.config
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\ZstdNet.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll.config
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.AssemblyReference.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormDashBoard.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormEmploye.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormProgressBar.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormTransaction.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormStatistique.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormCompte.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormClient.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormUtilisateur.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormMenu.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormLoginUser.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormPayroll.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.Properties.Resources.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormTracabilite.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.GenerateResource.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CoreCompileInputs.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CopyComplete
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.exe
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.pdb
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.AssemblyReference.cache
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormDashBoard.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormEmploye.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormProgressBar.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormTransaction.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormStatistique.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormCompte.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormClient.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormUtilisateur.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormMenu.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormLoginUser.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormPayroll.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.Properties.Resources.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormTracabilite.resources
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.GenerateResource.cache
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CoreCompileInputs.cache
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.exe
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.pdb
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe.config
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.pdb
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\ZstdNet.dll
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll.config
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ing Evans Aubrun\Desktop\Test\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CopyComplete
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe.config
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.exe
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\CPF.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\ZstdNet.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\GestionInterface.dll.config
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\Google.Protobuf.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySql.Data.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\MySqlConnector.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Buffers.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Memory.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.AssemblyReference.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormDashBoard.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormEmploye.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormProgressBar.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormTransaction.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormStatistique.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormCompte.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormClient.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormUtilisateur.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormMenu.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormLoginUser.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.FormPayroll.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.Properties.Resources.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.GenerateResource.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CoreCompileInputs.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.csproj.CopyComplete
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.exe
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\CPF\CPF\obj\Debug\CPF.pdb

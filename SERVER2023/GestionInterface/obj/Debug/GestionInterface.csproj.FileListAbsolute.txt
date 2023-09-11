@@ -1,0 +1,41 @@
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csprojResolveAssemblyReference.cache
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\GestionInterface\obj\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\GestionInterface\bin\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\GestionInterface\bin\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\GestionInterface\obj\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\GestionInterface\obj\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\bin\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\bin\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\N_A_X_15\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.pdb
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\bin\Debug\GestionInterface.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\bin\Debug\GestionInterface.pdb
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.csproj.AssemblyReference.cache
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.csproj.CoreCompileInputs.cache
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.dll
+C:\Users\N_A_X_!5\Desktop\SERVER_CLIENT_SVB\SERVER2023\GestionInterface\obj\Debug\GestionInterface.pdb

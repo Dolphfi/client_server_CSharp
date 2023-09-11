@@ -1,0 +1,84 @@
+c:\users\dieu\documents\visual studio 2015\Projects\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe.config
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\bin\Debug\SERVER2022.pdb
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\bin\Debug\GestionInterface.dll
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\bin\Debug\GestionInterface.pdb
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csprojResolveAssemblyReference.cache
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Form1.resources
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Properties.Resources.resources
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.GenerateResource.Cache
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\obj\Debug\SERVER2022.exe
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\obj\Debug\SERVER2022.pdb
+C:\Users\Dieu\Documents\Visual Studio 2015\Projects\SERVER2022\SERVER2022\bin\Debug\MySql.Data.dll
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe.config
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\bin\Debug\SERVER2022.pdb
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\bin\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\bin\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.AssemblyReference.cache
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Form1.resources
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Properties.Resources.resources
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.GenerateResource.cache
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CoreCompileInputs.cache
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CopyComplete
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.exe
+C:\Users\Ing Evans Aubrun\Desktop\DEVOIR\SERVER2022\SERVER2022\obj\Debug\SERVER2022.pdb
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.AssemblyReference.cache
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.SuggestedBindingRedirects.cache
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Form1.resources
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Properties.Resources.resources
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.GenerateResource.cache
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CoreCompileInputs.cache
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.exe
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.pdb
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe.config
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\bin\Debug\SERVER2022.pdb
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\bin\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\bin\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\CLient Server\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CopyComplete
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe.config
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\GestionInterface.dll
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\GestionInterface.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.AssemblyReference.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.SuggestedBindingRedirects.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Properties.Resources.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.GenerateResource.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CoreCompileInputs.cache
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CopyComplete
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.exe
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe.config
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\GestionInterface.dll
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\GestionInterface.pdb
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.AssemblyReference.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Form1.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Properties.Resources.resources
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.GenerateResource.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CoreCompileInputs.cache
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CopyComplete
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.exe
+C:\Users\Ing Evans Aubrun\Desktop\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.pdb
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.FormLoginUser.resources
+D:\Vans_Programmations\C#\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.FormMenu.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe.config
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.exe
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\SERVER2022.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\GestionInterface.dll
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\bin\Debug\GestionInterface.pdb
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.AssemblyReference.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.FormLoginUser.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.FormMenu.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.Properties.Resources.resources
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.GenerateResource.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CoreCompileInputs.cache
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.csproj.CopyComplete
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.exe
+C:\Users\Lovenjiminight\Documents\Lovenjiminight\annee 4\C#\SERVER_CLIENT_CPF\SERVER_CLIENT_CPF\SERVER2022\SERVER2022\obj\Debug\SERVER2022.pdb
